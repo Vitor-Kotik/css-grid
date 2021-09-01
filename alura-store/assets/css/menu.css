@@ -1,0 +1,19 @@
+.menu {
+    font-size: 1.2em;
+    color: #333333;
+}
+
+.menu__link {
+    color: inherit;
+    /* margin-right: 1.2em; */
+    padding: 0 1em;
+    transition: 200ms;
+}
+
+.menu__link:hover {
+    border-bottom: .2em solid rgb(0, 0, 255);
+}
+
+.ativo {
+    border-bottom: .2em solid rgb(0, 0, 255);
+}
