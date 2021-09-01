@@ -9,7 +9,7 @@
         "card-corpo";
     grid-template-columns: 100%;
     grid-template-rows: 170px auto;
-    background: #FFFFFF;
+    background: #FDFDFD;
     margin-right: .5em;
     width: calc(20% - .5em);
 }
